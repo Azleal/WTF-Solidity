@@ -19,6 +19,8 @@ All code and tutorials are open source on GitHub: [github.com/AmazingAng/WTFSoli
 
 -----
 
+in this lesson, we'll introduce Upgradeable Contract, the sample contracts used for teaching are simplified from `OpenZeppelin` contracts, they may pose security risks, DO NOT USE IN PRODUCTION.
+
 ## Upgradeable Contract
 
 If you understand proxy contracts, it is easy to understand upgradeable contracts. It is a proxy contract that can change the logic contract.
